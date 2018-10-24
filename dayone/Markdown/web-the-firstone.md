@@ -40,7 +40,7 @@ M(模型层)、V(视图层)、C(业务层)
 
 &emsp;&emsp;MVC（Model View Controller）是模型-视图-控制器，一种软件设计典范，用一种业务逻辑、数据、界面显示分离的方法组织代码，将业务逻辑狙击到一个部件里，在改进和个性化定制界面及用户交互的同时，不需要重新编写业务逻辑。MVC被独特的发展起来用于映射传统的输入、处理和输出功能在一个逻辑的图形化用户界面的结构中。通俗的来讲就是，强制性的使应用程序的输入，处理和输出分开。
 
-![图示](https://github.com/JackChenSmile/web-the-firstone/blob/master/Markdown/web-the-firstone/QQ%E6%88%AA%E5%9B%BE20181022103251.png)
+![图示](https://github.com/JackChenSmile/The-third-web-/blob/master/dayone/Markdown/web-the-firstone/QQ%E6%88%AA%E5%9B%BE20181022103251.png)
 
 ### MVT：
 
@@ -174,7 +174,7 @@ env代表创建的虚拟环境的名称
 
 - 在python中打开文件
 
-  ![图片](https://github.com/JackChenSmile/web-the-firstone/blob/master/Markdown/web-the-firstone/QQ%E6%88%AA%E5%9B%BE20181022171438.png)
+  ![图片](https://github.com/JackChenSmile/The-third-web-/blob/master/dayone/Markdown/web-the-firstone/QQ%E6%88%AA%E5%9B%BE20181022171438.png)
 
   - __init__.py：说明该目录结构是一个python包，会在后期被用来初始化一些工具。
   - seetings.py：Django项目的配置文件，其中定义了本项目的引用组件，项目名，数据库，静态资源，调试模式，域名限制等，可以用来修改一些文件设置。
@@ -190,11 +190,11 @@ env代表创建的虚拟环境的名称
 
 中文和时区设置：
 
-![图片](https://github.com/JackChenSmile/web-the-firstone/blob/master/Markdown/web-the-firstone/QQ%E6%88%AA%E5%9B%BE20181022152640.png)
+![图片](https://github.com/JackChenSmile/The-third-web-/blob/master/dayone/Markdown/web-the-firstone/QQ%E6%88%AA%E5%9B%BE20181022152640.png)
 
 英文和时区设置：
 
-![图片](https://github.com/JackChenSmile/web-the-firstone/blob/master/Markdown/web-the-firstone/QQ%E6%88%AA%E5%9B%BE20181022152916.png)
+![图片](https://github.com/JackChenSmile/The-third-web-/blob/master/dayone/Markdown/web-the-firstone/QQ%E6%88%AA%E5%9B%BE20181022152916.png)
 
 - 启动Django的方法
 
