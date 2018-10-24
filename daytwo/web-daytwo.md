@@ -11,7 +11,7 @@ tags: web框架
 
 #### 启动一个脚本文件：
 
-![QQ截图20181023121317](web-daytwo\QQ截图20181023121317.png)
+![QQ截图20181023121317](https://github.com/JackChenSmile/The-third-web-/blob/master/daytwo/web-daytwo/QQ%E6%88%AA%E5%9B%BE20181023121317.png)
 
 - Run -> Debug Configurations ---- 修改
 
@@ -21,12 +21,12 @@ tags: web框架
 
 - 修改settings中的DATABASE的数据
 
-  ![QQ截图20181023141556](web-daytwo\QQ截图20181023141556.png)
+  ![QQ截图20181023141556](https://github.com/JackChenSmile/The-third-web-/blob/master/daytwo/web-daytwo/QQ%E6%88%AA%E5%9B%BE20181023141556.png)
 
 #### 在model中创建表格模型
 1.在settings中的INSTALLED_APPS中添加app
 
-![QQ截图20181023121548](web-daytwo\QQ截图20181023121548.png)
+![QQ截图20181023121548](https://github.com/JackChenSmile/The-third-web-/blob/master/daytwo/web-daytwo/QQ%E6%88%AA%E5%9B%BE20181023121548.png)
 
 2.执行python manage.py startapp app
 
@@ -115,7 +115,7 @@ tags: web框架
 
     查看调用方法生成的ip地址，在数据库中就创建好了数据
     
-    ![QQ截图20181023122235](web-daytwo\QQ截图20181023122235.png)
+    ![QQ截图20181023122235](https://github.com/JackChenSmile/The-third-web-/blob/master/daytwo/web-daytwo/QQ%E6%88%AA%E5%9B%BE20181023122235.png)
 
 ##### 创建表格中的数据（2）
 
